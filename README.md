@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# ola pessoal 👋
+- meu nome é:antonio kaique
+- sou estudante da 1 serie do ensino medio
+- estou in
 <!--
 **Antonio280/antonio280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
