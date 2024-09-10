@@ -2,7 +2,7 @@
 - meu nome é:antonio kaique
 - sou estudante da 1 serie do ensino medio
 - estou interessado nas áreas de policia
-- meu insta é @tonhao2030
+- meu insta é tonhao2030
 - meu e-mail é antonioKaique551@gmail.com
 <!--
 **Antonio280/antonio280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
